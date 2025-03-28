@@ -1,0 +1,3 @@
+/handbook.html
+  X-Frame-Options: ALLOW-FROM https://heyzine.com
+  Content-Security-Policy: frame-ancestors 'self' https://heyzine.com;
