@@ -18,7 +18,7 @@
     <script>
         function loadIframeSrc() {
             
-            var url = localStorage.getItem("iFrameSrc"); // Get stored URL
+            var url = sessionStorage.getItem("iFrameSrc"); // Get stored URL
             if (url) {
                 document.getElementById('dynamicLink').src = url;
             }
