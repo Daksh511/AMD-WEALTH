@@ -44,7 +44,7 @@
 a { color: #FF6F00; text-decoration: none; }
 a:hover { color: #E65100; }
 
-.icon, .bi, .fa, .material-icons { color: #FF6F00 !important; }
+.icon, .bi, .fa, .material-icons { color: #FFFFFF !important; }
 .progress-bar { background-color: #FF6F00; }
 
 .list-group-item.active { background-color: #FF6F00; border-color: #FF6F00; color: #fff; }
